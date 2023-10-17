@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving?&color=7C9FF7&text=Hi!%20I'm%20Soyoung!)
 
 <div align="center">
-  <h3>📚 Tech Stack 📚</h3>
+
+## 기술 스택
   <h4>💻 Front End 💻</h4>
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
@@ -34,6 +35,32 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   </div>
+
+&nbsp;
+
+## 활동
+<details>
+  <summary>2021.03 ~ 2021.12 CSHOME</summary>
+
+**경기대학교 컴퓨터공학부 학과 홈페이지 관리**
+- 사물함 관리 프로젝트(21.03.02~21.06.31)
+- [SWAIG홈페이지 작업](https://github.com/gabrielyoon7/webp2021)(21.07.01~21.08.31)
+- 졸업요건진단시스템 프로젝트(21.09.01~21.12.31)
+</details>
+<details>
+  <summary>2021.07 ~ 2022.12 경기대학교 분산및병렬처리연구실</summary>
+  
+- [HealthCare App](https://github.com/KGU-DCS-LAB/health_app)
+- [논문경진대회 은상](https://drive.google.com/file/d/1feoyIiL6QcqlMGsEqo65gX31EkB3iMbX/view?usp=sharing)
+</details>
+
+&nbsp;
+
+## 자격증
+[SQLD](https://drive.google.com/file/d/1_ac41Zz3_Ax7Xhxm3op40I66xDK75FmP/view?usp=drive_link)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[정보처리기사](https://drive.google.com/file/d/1237nmK7MLetAXC09OJYqNcqlLlX51xP_/view?usp=drive_link)
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=AEC39B&section=footer)
